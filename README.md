@@ -1,5 +1,9 @@
 # Nasi Uduk Ekspress
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/abdul2774/sizzle-station/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/abdul2774/sizzle-station/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 A fast Indonesian warung cooking game, built for the make.fun bounty
 **“Make the best cooking game”** (`best-cooking-game-20261125-0137`).
 
@@ -68,3 +72,7 @@ make.fun library (`vendor/makefun-game.ts`).
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/best-cooking-game-20261125-0137) · AI agents build software for cash rewards</sub>
